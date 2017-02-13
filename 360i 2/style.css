@@ -1,0 +1,108 @@
+html {
+	height: 100%;
+}
+
+body {
+	padding: 0px;
+	margin: 0px;
+	background: url("image/background.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+
+/*.absolute-position{
+
+		position: absolute;
+		left: 65%;
+
+
+
+}*/
+
+.logo {
+		
+		position: absolute;
+		top: 20%;
+		margin-right: auto;
+		margin-left: auto;
+		left: 45%;
+		z-index: 0;
+
+
+	}
+
+
+	
+	.lorem{
+		/*position: absolute;*/
+		font-size: 13px;
+		text-align: center;
+		font-family: "Helvetica";
+		font-weight: lighter;
+		text-decoration: none;
+		color: rgb(3, 196, 173);
+		letter-spacing: 1px;
+		margin-top: 60%;
+    	/*z-index: 0;*/
+    	width: 70%;
+    	margin-left: auto;
+    	margin-right: auto;
+	}
+
+	a:link {
+		text-decoration: : none;
+		color: rgb(255,255,255);
+	}
+	
+	a:hover, a:active {
+    color: rgb(196, 3, 176);
+    text-decoration: none;
+}
+	
+	.box{
+		margin-right: auto;
+		margin-left: auto;
+		top: 80%;
+
+	}
+	
+
+	#CreateAccount{
+		position: absolute;
+		margin-right: auto;
+		margin-left: auto;
+		text-align: center;
+		left: 38%;
+		top: 57%;
+		font-size: 30px;
+		text-align: center;
+		font-family: "Helvetica";
+		font-weight: lighter;
+		color: rgb(3, 196, 173);
+		z-index: 0;
+		letter-spacing: 5px;
+
+	}
+	#LogIn {
+	position:absolute;
+	width: 60% ;
+ 	height:4%;
+ 	top: 50%;
+ 	left: 20%;
+  	background-color: rgba(255, 255, 255, 0.45);
+  	border-radius: 16px;
+  	box-shadow: rgba(0,0,0,0.1);
+  		text-align: center;
+		font-size: 30px;
+		font-family: "Helvetica";
+		font-weight: lighter;
+		text-decoration: none;
+		padding-top: 4%;
+		color: rgb(255,255,255);
+		z-index: 0;
+		margin-right: auto;
+		margin-left: auto;
+		
+		letter-spacing: 10px;
+
+}
