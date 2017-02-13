@@ -107,7 +107,7 @@ img {
   text-align: center; }
 
 .camera img {
-  width: 100%;
+  width: 100%; 
   height: 100%; }
 
 /*form styles*/
@@ -135,13 +135,6 @@ button {
 
 .offset {
   height: 50px; }
-
-/*.footer {
-  background-color: white;
-  bottom: 0px;
-  width: 100%;
-  height: 50px;
-  position: fixed; }*/
 
 .footer {
   background-color: #1F3A93;
