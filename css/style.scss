@@ -1,0 +1,66 @@
+body {
+	font-family: monospace;
+}
+
+.container {
+	background-color: #efefef;
+}
+
+.border {
+	/*border: 1px solid black;*/
+	border-bottom: 1px solid black;
+}
+
+.center {
+	text-align: center;
+}
+
+.header, .footer {
+	padding: 20px 0px;
+}
+
+img {
+	width: 30px;
+	height: 30px;
+}
+
+h1 {
+	margin: 0px;
+	padding: 0px;
+	line-height: 30px;
+}
+
+.frame {
+	border: 1px solid black;
+	width: 200px;
+	height: 200px;
+	margin: auto;
+}
+
+.form-background {
+	padding: 20px;
+}
+
+.white-background {
+	background-color: white;
+	height: 500px;
+}
+
+.history-background img {
+	float: right;
+}
+
+p {
+	line-height: 30px;
+	display: inline-block;
+}
+
+.details {
+	text-align: center;
+}
+
+h3 {
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 600;
+}
